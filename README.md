@@ -1,1 +1,34 @@
 # Cross-Platform-Fingerprint-Matching-using-CNN
+This project addresses the crucial objective of achieving precise matching between contactless 2D fingerprint images and their contact-based counterparts to enhance the effectiveness of emerging contactless fingerprint technologies.
+
+
+| Contactbased Image                                             | Contactless Image                                            |
+|--------------------------------------------------------------|------------------------------------------------------------|
+| ![Contactbased Image](https://raw.githubusercontent.com/bishram-acharya/Cross-Platform-Fingerprint-Matching-using-CNN/main/Images/1.bmp) | ![Contactless Image](https://raw.githubusercontent.com/bishram-acharya/Cross-Platform-Fingerprint-Matching-using-CNN/main/Images/1match.png) |
+
+
+
+## Problem Statement
+- The existing limitations in accurately matching contactless and contact-based fingerprints pose a significant hurdle in leveraging the advancements of contactless 2D/3Dfingerprint identification systems.
+- The lack of a robust and reliable framework capable of accurately comparing and aligning contactless 2D fingerprints with their contact-based counterparts hinders the widespread adoption and efficacy of modern biometric technologies.
+- Existing methodologies fail to address the disparities in fingerprint representations
+captured by distinct sensor technologies, resulting in a significant decline in matching
+accuracy and reliability.
+
+## Dataset
+- The dataset was obtained from the University at Buffalo- Center for Unified Biometrics and Sensors. The data consisted of two types of fingerprint images, namely, contact-based and contactless. The number of contact-based images was 920, and contactless images were 11,252.
+
+## Approaches
+- VGG16
+- DenseNet
+
+## Evaluation
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Area Under ROC Curve
+- Equal Error Rate
+
+
+
