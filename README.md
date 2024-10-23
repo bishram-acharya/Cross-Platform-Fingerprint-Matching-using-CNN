@@ -1,7 +1,8 @@
 # Cross-Platform-Fingerprint-Matching-using-CNN
 **Note** : The paper hasn't been published yet. Full code will be updated after publication of paper.
 
-This project addresses the crucial objective of achieving precise matching between contactless 2D fingerprint images and their contact-based counterparts to enhance the effectiveness of emerging contactless fingerprint technologies.
+This project was undertaken as the minor project during the sixth semester of our undergraduate study.
+It addresses the crucial objective of achieving precise matching between contactless 2D fingerprint images and their contact-based counterparts to enhance the effectiveness of emerging contactless fingerprint technologies.
 
 
 | Contactbased Image                                             | Contactless Image                                            |
