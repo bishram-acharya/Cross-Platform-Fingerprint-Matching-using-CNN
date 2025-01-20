@@ -22,7 +22,7 @@ accuracy and reliability.
 - The dataset was obtained from the University at Buffalo- Center for Unified Biometrics and Sensors. The data consisted of two types of fingerprint images, namely, contact-based and contactless. The number of contact-based images was 920, and contactless images were 11,252.
 
 ## Approaches
-- VGG16
+- VGG16 and
 - DenseNet
 
 ## Evaluation
