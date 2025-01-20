@@ -7,7 +7,7 @@ It addresses the crucial objective of achieving precise matching between contact
 
 | Contactbased Image                                             | Contactless Image                                            |
 |--------------------------------------------------------------|------------------------------------------------------------|
-| ![Contactbased Image](https://raw.githubusercontent.com/bishram-acharya/Cross-Platform-Fingerprint-Matching-using-CNN/main/Images/1.bmp?token=GHSAT0AAAAAACUJDK2V67WYRXFOOVOHWVRWZUFAHJQ) | ![Contactless Image](https://raw.githubusercontent.com/bishram-acharya/Cross-Platform-Fingerprint-Matching-using-CNN/main/Images/1match.png?token=GHSAT0AAAAAACUJDK2US7TOXW7JMTOTXCRYZUFAFGQ) |
+| ![Contactbased Image](https://raw.githubusercontent.com/bishram-acharya/Cross-Platform-Fingerprint-Matching-using-CNN/main/Images/1.bmp?token=GHSAT0AAAAAACUJDK2V67WYRXFOOVOHWVRWZUFAHJQ) | ![Contactless Image]([https://raw.githubusercontent.com/bishram-acharya/Cross-Platform-Fingerprint-Matching-using-CNN/main/Images/1match.png?token=GHSAT0AAAAAACUJDK2US7TOXW7JMTOTXCRYZUFAFGQ](https://raw.githubusercontent.com/bishram-acharya/Cross-Platform-Fingerprint-Matching-using-CNN/refs/heads/main/Images/1match.png)) |
 
 
 
